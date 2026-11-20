@@ -1,0 +1,4 @@
+<?php
+
+http_response_code(404);
+echo "<h1>404 - Ruta no encontrada</h1>";
